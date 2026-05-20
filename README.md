@@ -124,7 +124,9 @@ forensichain/
 
 ---
 
-## 👤 Author
+## 👤 Ibrar Ul Hassan Shami
+## 👤 Muhammad Azfar Waqas
+## 👤 Hassan Iftikhar
 
 **BS-CS 6th Semester**  
 Blockchain & Technology Lab — Lab 11  
